@@ -1,20 +1,10 @@
-﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
-using System.Drawing;
-using System.Linq;
-using System.Reflection.Emit;
-using System.Text;
-using System.Threading.Tasks;
-using System.Windows.Forms;
-using Figurki;
+﻿using Figurki;
 
 namespace OAIP_Figures
 {
     public partial class Form3 : Form
     {
-        //плплплплпл
+        //плплплплплrg
         bool flag;
         int numPoints = 3;
         int i = 0;
