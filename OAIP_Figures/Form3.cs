@@ -14,6 +14,7 @@ namespace OAIP_Figures
 {
     public partial class Form3 : Form
     {
+        //плплплплпл
         bool flag;
         int numPoints = 3;
         int i = 0;
